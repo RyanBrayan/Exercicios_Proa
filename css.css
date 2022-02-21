@@ -1,0 +1,32 @@
+
+.Bolo{
+    text-transform: uppercase;
+    color: #ff6a28;
+    font-size: 23px;
+    font-weight: 600;
+}
+.frango{
+    text-transform: uppercase;
+    color: #ff6a28;
+    font-size: 23px;
+    font-weight: 600;
+}
+.maracuja{
+    text-transform: uppercase;
+    color: #ff6a28;
+    font-size: 23px;
+    font-weight: 600;
+}
+body{
+    background-image: url(./img/pexels-roman-odintsov-5061198\ \(1\).jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+
+}   
+
+.receita{
+    font-family: 'Bebas Neue', cursive;
+
+}
+
